@@ -81,7 +81,12 @@ figure {
 #premiacoes td a {
     color: #0645ad;
     text-decoration: none;
-  }
+}
+
 #premiacoes td a:hover {
     text-decoration: underline;
-  }
+}
+
+.content .sidebar ul li {
+    line-height: 1.8rem;
+}
